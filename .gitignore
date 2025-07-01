@@ -1,0 +1,4 @@
+data/
+runs/
+weights/
+__pycache__/
